@@ -7,13 +7,13 @@ Pengguna dapat melihat daftar film anime, memilih film, memilih jadwal tayang, m
 ## Screenshot Hasil Output
 
 ### Daftar Film  
-![Daftar Film](ss%20an/index.png)
+![Daftar Film](images/index.png)
 
 ### Form Pemesanan  
-![Form Pemesanan](ss%20an/pesan.png)
+![Form Pemesanan](images/pesan.png)
 
 ### Struk Pemesanan  
-![Struk Pemesanan](ss%20an/struk.png)
+![Struk Pemesanan](images/struk.png)
 
 ## Cara Menjalankan Aplikasi
 
