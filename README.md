@@ -14,7 +14,6 @@ Pengguna dapat melihat daftar film anime, memilih film, memilih jadwal tayang, m
 
 ### Struk Pemesanan  
 ![Struk Pemesanan](ss%20an/struk.png)
-> *Catatan:* Pastikan folder `screenshots` berisi gambar sesuai untuk tampil di README.
 
 ## Cara Menjalankan Aplikasi
 
